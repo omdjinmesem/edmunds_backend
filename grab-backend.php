@@ -1,6 +1,6 @@
 <?php
 /*
-PROSES : yeyeye
+PROSES :
 - Crawl
 - Single grab
 - Grab all
