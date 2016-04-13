@@ -534,7 +534,7 @@ function omj_publishflow_page(){
     $responpub = rs_gws_local($base2,$gdata,'multypublish');
     echo $base2.'<br/>';
     echo $responpub;
-    echo '<hr/>===================<hr/>';
+    echo '<hr/>====================3';
     /*if($responpub=='yH4') {
       echo '<p class="gr">Publish ke '.$base2.' sukses!</p>';
     } else {
